@@ -1,7 +1,9 @@
 ## Oi, eu sou o Axel!!!
  <div>
   <a href="https://github.com/axeljunior">
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axeljunior&hide=stars&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <!-- <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeljunior&layout=compact&langs_count=16&theme=slateorange"/> -->
    
 
   
