@@ -3,7 +3,8 @@
   <a href="https://github.com/axeljunior">
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=axeljunior&hide=stars&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeljunior&layout=compact&exclude_repo=Alura-ImersaoDados&langs_count=16&theme=slateorange"/> 
+   
+ ## <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axeljunior&layout=compact&exclude_repo=Alura-ImersaoDados&langs_count=16&theme=slateorange"/> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Axel-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
