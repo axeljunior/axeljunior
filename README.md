@@ -20,7 +20,7 @@
 ### 🕰 Atualmente estudando 📚
 <div>
 
-* 📌 Degins Patterns
+* 📌 Designs Patterns
 * 📌 Estrutura de Dados
 * 📌 Desenvolvimento Web, Frontend / Backend
 * 📌 Desenvolvimento Android
