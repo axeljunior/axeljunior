@@ -2,7 +2,7 @@
 
 ![axeljunior GitHub stats](https://github-readme-stats.vercel.app/api?username=axeljunior&show_icons=true&theme=slateorange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axeljunior&layout=compact&exclude_repo=Alura-ImersaoDados&langs_count=16&theme=slateorange)
-![axeljunior wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axeljunior&theme=slateorange)
+<!-- ![axeljunior wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=axeljunior&theme=slateorange) -->
   
 #
 ### 🖤 Interesses 👨‍💻
