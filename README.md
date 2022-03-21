@@ -30,17 +30,16 @@
   <img align="center" alt="Axel-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Axel-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Axel-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Axel-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Axel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Axel-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Axel-html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Axel-css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="React" alt="Axel-sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
 </div>
-<!--
-## Ferramentas e Tecnologias 💻
+  
+### Ferramentas
 <div style="display: inline_block"><br>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div> -->
+  <img alt="Nuxtjs" alt="Axel-nuxtjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"/>
+  <img alt="React" alt="Axel-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+</div>
   
   ####
   
